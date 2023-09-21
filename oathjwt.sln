@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oathjwt", "oathjwt\oathjwt.csproj", "{310C6161-3A8A-4654-8385-4CAFC61F41F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{310C6161-3A8A-4654-8385-4CAFC61F41F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{310C6161-3A8A-4654-8385-4CAFC61F41F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{310C6161-3A8A-4654-8385-4CAFC61F41F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{310C6161-3A8A-4654-8385-4CAFC61F41F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF7FCA70-28D8-4716-8B8A-81C2DD6BBC7B}
+	EndGlobalSection
+EndGlobal
